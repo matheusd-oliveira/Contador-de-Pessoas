@@ -1,6 +1,7 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
-A new Flutter project.
+Um projeto bem simples em Flutter. 
+Aprendendo a utilizar o framework Flutter, desenvolvendo um aplicativo simples.
 
 ## Getting Started
 
